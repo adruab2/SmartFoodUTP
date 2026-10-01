@@ -9,13 +9,8 @@ function App() {
 
   const [usuarios, setUsuarios] = useState([
     { codigoUtp: 'U20000000', password: '123456', rol: 'administrador', nombre: 'Admin General', dni: '12345678', tipoUsuario: 'personal' },
-<<<<<<< HEAD
     { codigoUtp: 'U30000000', password: '123456', rol: 'cocina', nombre: 'Chef Principal', dni: '8456789127654321', tipoUsuario: 'personal' },
     { codigoUtp: 'U10000000', password: '123456', rol: 'cliente', nombre: 'Estudiante Ejemplo', dni: '', tipoUsuario: 'estudiante' }
-=======
-    { codigoUtp: 'U30000000', password: '123456', rol: 'cocina', nombre: 'Chef Principal', dni: '87654321', tipoUsuario: 'personal' },
-    { codigoUtp: 'U10000000', password: '123456', rol: 'cliente', nombre: 'Estudiante Ejemplo', dni: '45678912', tipoUsuario: 'estudiante' }
->>>>>>> 8163cc48d62329a064a7a0ba11ae94b7c3c60ebe
   ])
 
   const handleLogin = (codigo, password) => {
