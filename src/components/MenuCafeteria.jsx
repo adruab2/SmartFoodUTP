@@ -7,7 +7,7 @@ function MenuCafeteria({ usuario, onCerrarSesion }) {
   const [confirmado, setConfirmado] = useState(false)
 
   const productos = [
-    { id: 1, nombre: 'Menu Ejecutivo (Chaufa + Refresco)', precio: 'S/ 12.00', categoria: 'Almuerzos', imagen: '/img/menu-ejecutivo.jpg' },
+    { id: 1, nombre: 'Menu Ejecutivo (pollo + ensalada)', precio: 'S/ 12.00', categoria: 'Almuerzos', imagen: '/img/menu-ejecutivo.jpg' },
     { id: 2, nombre: 'Sandwich de Pollo', precio: 'S/ 5.50', categoria: 'Desayunos', imagen: '/img/sandwich-pollo.jpg' },
     { id: 3, nombre: 'Empanada de Carne', precio: 'S/ 4.00', categoria: 'Snacks', imagen: '/img/empanada-carne.jpg' },
     { id: 4, nombre: 'Café Pasado / Infusión', precio: 'S/ 3.00', categoria: 'Bebidas', imagen: '/img/cafe-pasado.jpg' }
