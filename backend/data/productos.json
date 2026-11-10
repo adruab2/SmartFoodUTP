@@ -1,0 +1,30 @@
+[
+  {
+    "id": 1,
+    "nombre": "Menu Ejecutivo (pollo + ensalada)",
+    "categoria": "ALMUERZOS",
+    "precio": "S/ 12.00",
+    "imagen": "/img/menu-ejecutivo.jpg"
+  },
+  {
+    "id": 2,
+    "nombre": "Sandwich de Pollo",
+    "categoria": "DESAYUNOS",
+    "precio": "S/ 5.50",
+    "imagen": "/img/sandwich-pollo.jpg"
+  },
+  {
+    "id": 3,
+    "nombre": "Empanada de Carne",
+    "categoria": "SNACKS",
+    "precio": "S/ 4.00",
+    "imagen": "/img/empanada-carne.jpg"
+  },
+  {
+    "id": 4,
+    "nombre": "Café Pasado / Infusión",
+    "categoria": "BEBIDAS",
+    "precio": "S/ 3.00",
+    "imagen": "/img/cafe-pasado.jpg"
+  }
+]

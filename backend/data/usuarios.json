@@ -1,0 +1,5 @@
+[
+  { "id": 1, "codigoUtp": "U10000000", "dni": "12345678", "nombre": "Estudiante Ejemplo", "tipo": "Estudiante", "rol": "cliente", "password": "123" },
+  { "id": 2, "codigoUtp": "U20000000", "dni": "87654321", "nombre": "Admin General", "tipo": "Personal", "rol": "administrador", "password": "123" },
+  { "id": 3, "codigoUtp": "U30000000", "dni": "45678912", "nombre": "Chef Principal", "tipo": "Personal", "rol": "cocina", "password": "123" }
+]
