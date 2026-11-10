@@ -1,6 +1,6 @@
 # SmartFood UTP - Automatización de Pedidos en Cafeterías
 
-Avance 02 - Curso de Desarrollo Full Stack  
+Curso de Desarrollo Full Stack  
 Framework: React con Vite (Frontend) y Node.js con Express (Backend)
 
 ---
@@ -103,9 +103,9 @@ El sistema incluye cuentas iniciales para probar los diferentes roles:
 
 | Rol | Código UTP | Contraseña | Funcionalidad |
 | :--- | :--- | :--- | :--- |
-| **Administrador** | `U20000000` | `123456` | Gestión integral de usuarios, carta de comidas, cupos por franja horaria y reportes. |
-| **Chef (Cocina)** | `U30000000` | `123456` | Recepción de comandas en vivo, avance de estados y control de producción. |
-| **Estudiante** | `U10000000` | `123456` | Consulta de menú, armado de carrito, reserva de franja y seguimiento del pedido. |
+| **Administrador** | `U20000000` | `123` | Gestión integral de usuarios, carta de comidas, cupos por franja horaria y reportes. |
+| **Chef (Cocina)** | `U30000000` | `123` | Recepción de comandas en vivo, avance de estados y control de producción. |
+| **Estudiante** | `U10000000` | `123` | Consulta de menú, armado de carrito, reserva de franja y seguimiento del pedido. |
 
 También es posible registrar nuevos usuarios o restablecer contraseñas desde la plataforma.
 
